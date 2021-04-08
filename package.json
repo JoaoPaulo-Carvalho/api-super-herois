@@ -1,0 +1,16 @@
+{
+  "name": "api-super-herois",
+  "version": "1.0.0",
+  "description": "API de super-herois, que armazena e fornece dados da superhero-api",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node .",
+    "dev": "nodemon ."
+  },
+  "author": "araujo.jpc - João Paulo de Carvalho Araújo",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.7"
+  }
+}

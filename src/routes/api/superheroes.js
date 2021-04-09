@@ -2,7 +2,6 @@ const express = require('express')
 const fs = require('fs/promises')
 const path = require('path')
 const axios = require('axios')
-const _ = require('lodash')
 
 const router = express.Router()
 
